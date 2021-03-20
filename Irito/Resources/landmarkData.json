@@ -1,6 +1,6 @@
 [
     {
-        "name": "Turtle Rock",
+        "name": "Say “Yes” To Life",
         "category": "Rivers",
         "city": "Twentynine Palms",
         "state": "California",
@@ -12,11 +12,11 @@
             "longitude": -116.166868,
             "latitude": 34.011286
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "description": "utpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
         "imageName": "storyCover"
     },
     {
-        "name": "Silver Salmon Creek",
+        "name": "Maybe you’re in depression",
         "category": "Lakes",
         "city": "Port Alsworth",
         "state": "Alaska",
@@ -28,11 +28,11 @@
             "longitude": -152.665167,
             "latitude": 59.980167
         },
-        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "description": "Slutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
         "imageName": "storyCover1"
     },
     {
-        "name": "Chilkoot Trail",
+        "name": "Art | Aesthetic Club",
         "category": "Mountains",
         "city": "Skagway",
         "state": "Alaska",
@@ -48,7 +48,7 @@
         "imageName": "storyCover2"
     },
     {
-        "name": "St. Mary Lake",
+        "name": "Explore yourself",
         "category": "Lakes",
         "city": "Browning",
         "state": "Montana",
@@ -64,7 +64,7 @@
         "imageName": "storyCover"
     },
     {
-        "name": "Twin Lake",
+        "name": "Anime? Yare Yare",
         "category": "Lakes",
         "city": "Twin Lakes",
         "state": "Alaska",
@@ -80,7 +80,7 @@
         "imageName": "storyCover1"
     },
     {
-        "name": "Lake McDonald",
+        "name": "Only Hikkies",
         "category": "Mountains",
         "city": "West Glacier",
         "state": "Montana",
@@ -96,7 +96,7 @@
         "imageName": "storyCover"
     },
     {
-        "name": "Charley Rivers",
+        "name": "Chill Chill",
         "category": "Rivers",
         "city": "Eaking",
         "state": "Alaska",
@@ -112,7 +112,7 @@
         "imageName": "storyCover2",
     },
     {
-        "name": "Icy Bay",
+        "name": "18+",
         "category": "Mountains",
         "city": "Icy Bay",
         "state": "Alaska",
@@ -128,7 +128,7 @@
         "imageName": "storyCover"
     },
     {
-        "name": "Rainbow Lake",
+        "name": "only good mood",
         "category": "Lakes",
         "city": "Willow",
         "state": "Alaska",
@@ -144,7 +144,7 @@
         "imageName": "storyCover1"
     },
     {
-        "name": "Hidden Lake",
+        "name": "_it_ or not _it_",
         "category": "Lakes",
         "city": "Newhalem",
         "state": "Washington",
@@ -160,7 +160,7 @@
         "imageName": "storyCover2"
     },
     {
-        "name": "Chincoteague",
+        "name": "maybe you understand me",
         "category": "Rivers",
         "city": "Chincoteague",
         "state": "Virginia",
@@ -176,7 +176,7 @@
         "imageName": "storyCover"
     },
     {
-        "name": "Lake Umbagog",
+        "name": "help?",
         "category": "Lakes",
         "city": "Errol",
         "state": "New Hampshire",

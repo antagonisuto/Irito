@@ -13,8 +13,8 @@ struct ChatView: View {
     @State private var searchText = ""
     
     var body: some View {
-        ZStack{
-            VStack(alignment: .leading){
+        NavigationView{
+            VStack(){
                 Text("Chat which you can be yourself")
                     .font(.system(size:20))
                     .bold()
@@ -30,8 +30,14 @@ struct ChatView: View {
 //                }
                 
                 List(landmarks.filter({ searchText.isEmpty ? true : $0.name.contains(searchText) })) { landmark in
+                    NavigationLink(destination: ChatMessengerView()) {
                         HomeView(landmark: landmark)
+                    }
                 }
+                
+//                List(landmarks.filter({ searchText.isEmpty ? true : $0.name.contains(searchText) })) { landmark in
+//                        HomeView(landmark: landmark)
+//                }
                 
                 Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/) {
                     Text("Nothing is interested? Create own channel")
@@ -41,6 +47,8 @@ struct ChatView: View {
                     
                 }
             }
+            .navigationBarHidden(true)
+            .navigationBarItems(trailing: EmptyView())
         }
     }
 }

@@ -15,7 +15,7 @@ struct MenuTabView: View {
             HomeList()
                 .tabItem {
                     VStack {
-                        Image(systemName: "house.fill")
+                        Image("home")
                         Text("Home")
                     }
             }.tag(1)
@@ -23,7 +23,7 @@ struct MenuTabView: View {
             ChatView()
                 .tabItem {
                     VStack {
-                        Image(systemName: "person.crop.square.fill")
+                        Image("chat")
                         Text("Chat")
                     }
             }.tag(2)
@@ -31,7 +31,7 @@ struct MenuTabView: View {
             StoriesView()
                 .tabItem {
                     VStack {
-                        Image(systemName: "play.fill")
+                        Image("stories")
                         Text("Stories")
                     }
             }.tag(3)

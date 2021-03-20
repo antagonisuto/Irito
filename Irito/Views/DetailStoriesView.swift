@@ -14,6 +14,7 @@ struct DetailStoriesView: View {
     var body: some View {
 
             VStack (alignment: .leading){
+                
                 story.emoji
                     .frame(width: 50, height: 50)
                 
@@ -28,11 +29,11 @@ struct DetailStoriesView: View {
                         .foregroundColor(.gray)
                 }
                 
-//                Spacer()
-//                    .frame(height: 10)
                 
                 Text(story.mainBody)
                     .frame(minHeight: 0, maxHeight: .infinity)
+                
+                Spacer()
                 
             }
             .padding()

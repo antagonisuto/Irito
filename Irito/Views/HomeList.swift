@@ -62,12 +62,12 @@ struct HomeList: View {
             Spacer()
                 .frame(minHeight: 5, maxHeight: 20)
             
-            Text("Join group which you love ")
+            Text("Here are stories you might love")
                 .frame(width: 338, alignment: .leading)
             
             VStack{
-                List(landmarks[0..<3]) { landmark in
-                    HomeView(landmark: landmark)
+                List(stories[0..<3]) { landmark in
+                    StoriesList(story: landmark)
                 }
                 .frame(minHeight: 3*80+20)
             }
